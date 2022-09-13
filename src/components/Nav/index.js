@@ -8,7 +8,7 @@ function Nav(props) {
         setCurrentCategory,
         currentCategory,
     } = props; 
-
+    
     return (
         <header className="flex-row px-1">
             <h2>
